@@ -14,7 +14,7 @@ O projeto foi desenvolvido utilizando a biblioteca [React](https://pt-br.reactjs
 
 Para executar o projeto faça o clone deste repositório usando o comando abaixo.
 
-    git clone git@github.com:larissaperinoto/trybetunes.git
+    git clone git@github.com:brenusaraujo/trybetunes.git
     
 Após o clone, instale as dependências do projeto com o comando abaixo.
 
